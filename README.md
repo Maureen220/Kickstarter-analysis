@@ -10,11 +10,13 @@ To analyize various campaigns to determine successes vs. failures with the varia
 ## Analysis and Challenges
  
 ### Analysis of Outcomes Based on Launch Date
-I calculated the number of successful, failed, and canceled campaigns based on the category of theater. I then produced a line graph visializing the results and came to conclusions based on these observations. 
+I calculated the number of successful, failed, and canceled campaigns based on the category of theater. I then produced a line graph visializing the results and came to conclusions based on these observations.
+
 ![Outcomes_vs_Goals.png](Resources/Outcomes_vs_Goals.png)
 
 ### Analysis of Outcomes Based on Goals
 I created a chart based on the various monetary goals of each campaign and disected the values into $5000 incriments. I then caluclated the amount of successful, failed, and canceled campaigns within those $5000 increments and the total amount of all campaigns within those incriments. Additionally, I calcuated the percent of successful, failed, and canceled campagins based on their goal amount and produced into a line graph for visualization. 
+
 ![Theater_Outcomes_vs_Launch.png](Resources/Theater_Outcomes_vs_Launch.png)
  
 ### Challenges and Difficulties Encountered
