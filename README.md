@@ -12,12 +12,13 @@ To analyize various campaigns to determine successes vs. failures with the varia
 ### Analysis of Outcomes Based on Launch Date
 I calculated the number of successful, failed, and canceled campaigns based on the category of theater. I then produced a line graph visializing the results and came to conclusions based on these observations.
 
-![Outcomes_vs_Goals.png](Resources/Outcomes_vs_Goals.png)
+![Theater_Outcomes_vs_Launch.png](Resources/Theater_Outcomes_vs_Launch.png)
+
 
 ### Analysis of Outcomes Based on Goals
 I created a chart based on the various monetary goals of each campaign and disected the values into $5000 incriments. I then caluclated the amount of successful, failed, and canceled campaigns within those $5000 increments and the total amount of all campaigns within those incriments. Additionally, I calcuated the percent of successful, failed, and canceled campagins based on their goal amount and produced into a line graph for visualization. 
 
-![Theater_Outcomes_vs_Launch.png](Resources/Theater_Outcomes_vs_Launch.png)
+![Outcomes_vs_Goals.png](Resources/Outcomes_vs_Goals.png)
  
 ### Challenges and Difficulties Encountered
 I stuggled initially with the order of my COUNTIFS() formula, but was able to figure it out with the help of the hint video. 
@@ -25,7 +26,7 @@ I stuggled initially with the order of my COUNTIFS() formula, but was able to fi
 
 ## Results
 
-- I've observed that, in the variable of time, campaigns for theater launched in the months of May-July are the most successful, so it would be ideal to launch during that time. Additionally, the campaigns launched in the months of October-January were the lease successful, so it would be risky to launch during that time. 
+- I've observed that, in the variable of time, campaigns for theater launched in the months of May-July are the most successful, so it would be ideal to launch during that time. Additionally, the campaigns launched in the months of October-January were the least successful, so it would be risky to launch during that time. 
 
 - I saw that campaigns with goals at $5,000 or less have the highest chance of succeeding, in comparison to higher goals.
 
